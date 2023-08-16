@@ -1,2 +1,2 @@
-# regression
-Implementation of linear and logistic regression from scratch
+
+Implementation of linear and logistic regression with vectorization to speed up the process
